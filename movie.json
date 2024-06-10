@@ -1,5 +1,5 @@
 [{
-    "name": "Jujutsu Kaisen Season ",
+    "name": "Jujutsu Kaisen Season 1",
     "imdb": 9.3,
     "date": "",
     "sposter": "img/jujutsukaisen-1.jpg",
@@ -65,12 +65,12 @@
     "medium": "video/ant man 720ph.mp4",
     "high": "video/ant man 1080ph.mp4"
 }, {
-    "name": "Avengers",
+    "name": "Demon Slayer Season 4",
     "imdb": 9.9,
-    "date": "2012",
-    "sposter": "img/avengers.jpg",
-    "bposter": "img/avengers1.jpg",
-    "genre": "Action",
+    "date": "",
+    "sposter": "img/demonslayer-1.jpg",
+    "bposter": "img/demon-slayer-to-the-hashira-training-poster-cropped.avif",
+    "genre": "Adventure Dark fantasy Martial arts",
     "type": "movie",
     "url": "avengers.html",
     "trailer": "john wick trailer.mp4",
