@@ -1,5 +1,5 @@
 [{
-    "name": "Jujutsu Kaisen Season 1",
+    "name": "Jujutsu Kaisen",
     "imdb": 9.3,
     "date": "",
     "sposter": "img/jujutsukaisen-1.jpg",
@@ -13,7 +13,7 @@
     "high": "video/the boys 1080ph.mp4"
 },
     {
-    "name": "Solo Leveling Season 1",
+    "name": "Solo Leveling",
     "imdb": 8.3,
     "date": "",
     "sposter": "img/sololeveling-1.jpg",
@@ -26,7 +26,7 @@
     "medium": "video/the boys 720ph.mp4",
     "high": "video/the boys 1080ph.mp4"
 }, {
-    "name": "Kaiju No. 8 Season 1",
+    "name": "Kaiju No. 8 ",
     "imdb": 8.4,
     "date": "",
     "sposter": "img/kaijuno8-1.jpg",
@@ -39,20 +39,20 @@
     "medium": "video/the boys 720ph.mp4",
     "high": "video/the boys 1080ph.mp4"
 }, {
-    "name": "Black Colver Season 1",
+    "name": "Black Colver",
     "imdb": 8.2,
     "date": "",
     "sposter": "img/blackclover-1.jpg",
     "bposter": "img/blackclover-2.jpg",
     "genre": "Action, Animation, Adevnture" ,
     "type": "series",
-    "url": "blackclover.html",
+    "url": "blackcolver.html",
     "trailer": "john wick.webm",
     "low": "video/theboys.webm",
     "medium": "video/the boys 720ph.mp4",
     "high": "video/the boys 1080ph.mp4"
 }, {
-    "name": "Wind Breaker Season 1",
+    "name": "Wind Breaker",
     "imdb": 9.5,
     "date": "2017",
     "sposter": "img/Windbreaker-1.jpg",
@@ -65,7 +65,7 @@
     "medium": "video/ant man 720ph.mp4",
     "high": "video/ant man 1080ph.mp4"
 }, {
-    "name": "Demon Slayer Season 4",
+    "name": "Demon Slayer",
     "imdb": 9.9,
     "date": "",
     "sposter": "img/demonslayer-1.jpg",
